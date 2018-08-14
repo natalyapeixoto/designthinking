@@ -1,0 +1,59 @@
+body{
+    font-family: 'Lato', sans-serif;
+    height: 100%;
+    color: #5D1277;
+    box-sizing: border-box;
+}
+div{
+    display: inline-block;
+    margin:20px auto;
+}
+.description{
+    margin-left: 70px;
+    text-align: left;
+    font-size: 13px;
+}
+h1, p{
+    text-align: center;
+}
+
+.imagem{
+    margin-left: 345px;
+    margin-top:10px;
+    padding-top:30px;
+}
+
+img{
+    width: 250px;
+}
+a{
+    text-decoration: none;
+    border: 1px solid #5D1277;
+    box-sizing: border-box;
+    border-radius: 3px;
+    width: 180px;
+    height: 36px;
+    text-align: center;
+    font-size: 10px;
+    margin:20px auto;
+    padding: 10px;
+}
+.imagem__btn_roxo{
+    display: block;
+    background-color: purple;
+    color:white;
+}
+.imagem__btn_branco{
+    display: block;
+    color:purple; 
+    transition: all 5s;
+}
+.imagem__btn_branco:hover{
+    display: block;
+    color:purple; 
+    background-color: orange;
+}
+li {
+    padding: 10px;
+}
+
