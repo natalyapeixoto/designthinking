@@ -1,5 +1,9 @@
 # Project for {reprograma} HTML & CSS only. 
 
-https://natalyapeixoto.github.io/designthinking/
+### Aligning items with CSS.  
+
+#### Praticing displays: Inline, block and inline-block. 
+
+
 
 
